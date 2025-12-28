@@ -1,0 +1,187 @@
+[
+    {
+        "path": "10-percent-wins.html",
+        "type": "file",
+        "md5": "353c7fc9a66957787d66fe110ade7119"
+    },
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "eaade1fd11a66e41ee89016b0ed0859e"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "8eb4096d5a6a0282d3d721a215fc37d8"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/darklite.css",
+        "type": "file",
+        "md5": "945d2c90a5a1d2810c43ff5d3741eb6a"
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "56cf2129ad0bc0b59df51905ec6e2d75"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "b09e72b2ca1a38c969d44da51bb22509"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js/dev",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/dev/common.js",
+        "type": "file",
+        "md5": "eea83e19151d9895a521c874ed746c72"
+    },
+    {
+        "path": "/assets/js/dev/control.js",
+        "type": "file",
+        "md5": "a25188168f5f1979517b93138f1440b5"
+    },
+    {
+        "path": "/assets/js/dev/darklite.js",
+        "type": "file",
+        "md5": "cbc620e3e12f64c9c09e119e0eed7b30"
+    },
+    {
+        "path": "/assets/js/dev/popup.js",
+        "type": "file",
+        "md5": "5a92acab72a5bb6e94d60f1a4db3dbdf"
+    },
+    {
+        "path": "/assets/js/dev/toolkit.js",
+        "type": "file",
+        "md5": "78c3d2c2b4cd4daeb0c99bc1b9606076"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "d5531e2d92cf6f786db46093a5c8986b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ad72c006ee42236293be6225409d9561"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/7levers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/7levers/index.html",
+        "type": "file",
+        "md5": "fd6e5dcbfc6aa8c3ce3f98e93ad77aac"
+    },
+    {
+        "path": "cadence.html",
+        "type": "file",
+        "md5": "4da3d434b518c84a6d42cbbb5ec3d5a3"
+    },
+    {
+        "path": "consulting.html",
+        "type": "file",
+        "md5": "c0c63925f468240029818556c7bebf70"
+    },
+    {
+        "path": "contact-us.html",
+        "type": "file",
+        "md5": "e16b3d10b241d5fb8ac515c259147b34"
+    },
+    {
+        "path": "framework.html",
+        "type": "file",
+        "md5": "2eaed44f7a70d97e82672cc3cd987881"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "30bd6d038c44a439c080ce21253a1ce3"
+    },
+    {
+        "path": "new.html",
+        "type": "file",
+        "md5": "c30fd9f78ab779957eb1cc7f8a9a13f3"
+    },
+    {
+        "path": "pete-williams.html",
+        "type": "file",
+        "md5": "afe122aef910ca05abda8a97fc01da44"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "scholarships.html",
+        "type": "file",
+        "md5": "8dce0d6ec186f8ab6fae6b6a482e4bfc"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "2907e3fbb4b4330b2764947e0dc29158"
+    }
+]

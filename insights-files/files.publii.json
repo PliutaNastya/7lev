@@ -1,0 +1,162 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "3d0e3394a5823d3d53746336aa7e2669"
+    },
+    {
+        "path": "ai-policy.html",
+        "type": "file",
+        "md5": "61f5be9f3b324f90638f98cf4f21d18f"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/darklite.css",
+        "type": "file",
+        "md5": "945d2c90a5a1d2810c43ff5d3741eb6a"
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "56cf2129ad0bc0b59df51905ec6e2d75"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "b09e72b2ca1a38c969d44da51bb22509"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js/dev",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/dev/common.js",
+        "type": "file",
+        "md5": "eea83e19151d9895a521c874ed746c72"
+    },
+    {
+        "path": "/assets/js/dev/control.js",
+        "type": "file",
+        "md5": "a25188168f5f1979517b93138f1440b5"
+    },
+    {
+        "path": "/assets/js/dev/darklite.js",
+        "type": "file",
+        "md5": "cbc620e3e12f64c9c09e119e0eed7b30"
+    },
+    {
+        "path": "/assets/js/dev/popup.js",
+        "type": "file",
+        "md5": "5a92acab72a5bb6e94d60f1a4db3dbdf"
+    },
+    {
+        "path": "/assets/js/dev/toolkit.js",
+        "type": "file",
+        "md5": "78c3d2c2b4cd4daeb0c99bc1b9606076"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "d5531e2d92cf6f786db46093a5c8986b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ad72c006ee42236293be6225409d9561"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/7levers",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/7levers/index.html",
+        "type": "file",
+        "md5": "7e07b9a8070157b108b1ba8ec5e6df31"
+    },
+    {
+        "path": "cookie-policy.html",
+        "type": "file",
+        "md5": "a4e90cd773379251f71fb81f8220d422"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "668f1462b0ca8eec324ad7169f8a8808"
+    },
+    {
+        "path": "privacy.html",
+        "type": "file",
+        "md5": "6d7597846d389bc59245d322c6d16659"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "43e7156f9de69c8db68c6b28bfad95d4"
+    },
+    {
+        "path": "terms.html",
+        "type": "file",
+        "md5": "095d88a9f4d1e22aa6d8d45f14192036"
+    }
+]

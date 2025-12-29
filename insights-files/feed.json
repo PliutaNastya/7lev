@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "insights",
+    "description": "",
+    "home_page_url": "https://pliutanastya.github.io/7lev",
+    "feed_url": "https://pliutanastya.github.io/7lev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "7Levers"
+    },
+    "items": [
+    ]
+}

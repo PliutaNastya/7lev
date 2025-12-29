@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://pliutanastya.github.io/7lev/sitemap.xml

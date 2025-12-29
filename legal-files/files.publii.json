@@ -2,17 +2,17 @@
     {
         "path": "10-percent-wins.html",
         "type": "file",
-        "md5": "04f2e3e39816046c2ffc8d3cd9373f5a"
+        "md5": "d0b80b9d672aedfe24073928aeea7c43"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "73f11e98fb2ed11a58528a7a9e3513da"
+        "md5": "8762c7a009fd16843c11b979fe3018b4"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "352ee20cd902343a0b857d6cdca18c5c"
+        "md5": "9a1e4a7c16dab1b7bf4c72ef2875d814"
     },
     {
         "path": "assets",
@@ -27,7 +27,7 @@
     {
         "path": "/assets/css/custom.css",
         "type": "file",
-        "md5": "a251c4adf7153d36b249f3dfb29c4374"
+        "md5": "49c8023027ac27c405e1c3f100f8fefa"
     },
     {
         "path": "/assets/css/editor.css",
@@ -122,52 +122,72 @@
     {
         "path": "/authors/7levers/index.html",
         "type": "file",
-        "md5": "63d2479e018c9cd45d0618a6cdc3e7b0"
+        "md5": "1c6763bd7dcdb0426e8e875444e17e59"
     },
     {
         "path": "cadence.html",
         "type": "file",
-        "md5": "8ca4f944eb3648eaf6883da60b21e0cf"
+        "md5": "b8fd50111e13da188de079b4de24ab0f"
     },
     {
         "path": "consulting.html",
         "type": "file",
-        "md5": "47910ac7c1cc8242b5a1a0c95accfc7b"
+        "md5": "dfe6fbe62a9363fa797cb022e9d64e15"
     },
     {
         "path": "contact-us.html",
         "type": "file",
-        "md5": "1f0af1cb346b0586ddc2c245a6deb030"
+        "md5": "7afe91220d3233435f8c0c86bd4ef703"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "1464185e3a83832c6b2f161a71ef677a"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "c0be3ee9df3e6e162dce671b1d75deba"
     },
     {
         "path": "framework.html",
         "type": "file",
-        "md5": "90f03a67e68f824ed3a111dd3dff0bb5"
+        "md5": "7ce77146360e1144ec9c6b6676ca6a25"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "46ad7617dcfef19439f26def25d2677c"
+        "md5": "7550ae8d64ae5b3b4c23d89a5cfd147f"
     },
     {
         "path": "new.html",
         "type": "file",
-        "md5": "dc926dc6d90a8f65cd6f9bbef1402f29"
+        "md5": "b36aa3a09028f18cd53c6be4f7abb3a3"
     },
     {
         "path": "pete-williams.html",
         "type": "file",
-        "md5": "b4aa598be3ad9455466bedd08f0488ce"
+        "md5": "2aeac1f2c8c6c64ff8ff5ecc74ac817d"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+        "md5": "951891181a042aa458e262639ef3d18e"
     },
     {
         "path": "scholarships.html",
         "type": "file",
-        "md5": "398272cbdc1706ace31baeeb733fb673"
+        "md5": "96df3d26b1f847adb6efa73a86ca50b9"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "6a94b3978ad9bb587a2dfda0299e65a9"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
         "path": "tags",
@@ -177,6 +197,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "29585ea6ffff3285803ce6dfc66e5ce2"
+        "md5": "d4f8c2bb1330c8fb0182c786ba4d665b"
     }
 ]

@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "3d0e3394a5823d3d53746336aa7e2669"
+        "md5": "fda3198896b178a0836851117b14e992"
     },
     {
         "path": "ai-policy.html",
         "type": "file",
-        "md5": "61f5be9f3b324f90638f98cf4f21d18f"
+        "md5": "ed1a1a05da54ea6b794a1f2aa6ebbeb7"
     },
     {
         "path": "assets",
@@ -20,9 +20,9 @@
         "md5": false
     },
     {
-        "path": "/assets/css/darklite.css",
+        "path": "/assets/css/custom.css",
         "type": "file",
-        "md5": "945d2c90a5a1d2810c43ff5d3741eb6a"
+        "md5": "49c8023027ac27c405e1c3f100f8fefa"
     },
     {
         "path": "/assets/css/editor.css",
@@ -32,12 +32,12 @@
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "56cf2129ad0bc0b59df51905ec6e2d75"
+        "md5": "0df1b983c76a7e03d8efbab35d58e692"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "b09e72b2ca1a38c969d44da51bb22509"
+        "md5": "002add89896a0e45e4961ffcf4a0414b"
     },
     {
         "path": "assets/dynamic",
@@ -45,39 +45,29 @@
         "md5": false
     },
     {
+        "path": "assets/img",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/img/logo-1.svg",
+        "type": "file",
+        "md5": "01d6faf2486f3cbc8ea6ed9e7ffdae6c"
+    },
+    {
+        "path": "/assets/img/logo-2.svg",
+        "type": "file",
+        "md5": "accdc4474577dd30c4eb6a73c59ae158"
+    },
+    {
         "path": "assets/js",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "assets/js/dev",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/js/dev/common.js",
+        "path": "/assets/js/custom.js",
         "type": "file",
-        "md5": "eea83e19151d9895a521c874ed746c72"
-    },
-    {
-        "path": "/assets/js/dev/control.js",
-        "type": "file",
-        "md5": "a25188168f5f1979517b93138f1440b5"
-    },
-    {
-        "path": "/assets/js/dev/darklite.js",
-        "type": "file",
-        "md5": "cbc620e3e12f64c9c09e119e0eed7b30"
-    },
-    {
-        "path": "/assets/js/dev/popup.js",
-        "type": "file",
-        "md5": "5a92acab72a5bb6e94d60f1a4db3dbdf"
-    },
-    {
-        "path": "/assets/js/dev/toolkit.js",
-        "type": "file",
-        "md5": "78c3d2c2b4cd4daeb0c99bc1b9606076"
+        "md5": "0ec1c07aff9424ef731ed36a7e695975"
     },
     {
         "path": "/assets/js/scripts.js",
@@ -105,6 +95,11 @@
         "md5": false
     },
     {
+        "path": "/assets/svg/sprite-map.svg",
+        "type": "file",
+        "md5": "f0e4122c37cf032c1c214e59cc4ed922"
+    },
+    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
         "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
@@ -122,27 +117,47 @@
     {
         "path": "/authors/7levers/index.html",
         "type": "file",
-        "md5": "7e07b9a8070157b108b1ba8ec5e6df31"
+        "md5": "3434b4dca318fe5f5de49ef2c04e7cf1"
     },
     {
         "path": "cookie-policy.html",
         "type": "file",
-        "md5": "a4e90cd773379251f71fb81f8220d422"
+        "md5": "bd9fea743562af7ce2219f72016f45b5"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "b3452408144cf5ce035c178963a3f97b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "dd8e87767538411c204b1656c2ea24f5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "668f1462b0ca8eec324ad7169f8a8808"
+        "md5": "dcfe441857c296989706310a6f4933cc"
     },
     {
         "path": "privacy.html",
         "type": "file",
-        "md5": "6d7597846d389bc59245d322c6d16659"
+        "md5": "b4c6e53bb0ff7f31fade233187eeec79"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
+        "md5": "951891181a042aa458e262639ef3d18e"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "d43f62e9e1cc1c5cecd24d7b7b6afce5"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
     },
     {
         "path": "tags",
@@ -152,11 +167,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "43e7156f9de69c8db68c6b28bfad95d4"
+        "md5": "cdf34601fe7c985536d0e3b7be72fff0"
     },
     {
         "path": "terms.html",
         "type": "file",
-        "md5": "095d88a9f4d1e22aa6d8d45f14192036"
+        "md5": "52c44895bf2dd9acceb76e4a4e6e4233"
     }
 ]

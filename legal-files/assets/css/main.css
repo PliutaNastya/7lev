@@ -341,7 +341,7 @@ hr::before,
   left: 0;
 }
 
-.btn, [type=button],
+/* .btn, [type=button],
 [type=submit],
 button {
   align-items: center;
@@ -378,8 +378,8 @@ button:active, .btn:focus, [type=button]:focus,
 button:focus {
   background-color: var(--dark);
   color: var(--helper);
-}
-.btn--icon {
+} */
+/* .btn--icon {
   gap: 0.3rem;
   justify-content: center;
 }
@@ -430,7 +430,7 @@ button[disabled] {
   color: var(--gray);
   cursor: not-allowed;
   pointer-events: none;
-}
+} */
 
 [type=button],
 [type=submit],
@@ -635,7 +635,7 @@ textarea {
   }
 }
 
-.logo {
+/* .logo {
   color: var(--logo-color) !important;
   font-size: 1.2136296308rem;
   font-family: var(--logo-font);
@@ -649,7 +649,7 @@ textarea {
      object-fit: contain;
   padding: calc(var(--baseline) * 2) 0;
   width: auto;
-}
+} */
 
 .search {
   order: 2;
@@ -1971,7 +1971,7 @@ textarea {
 }
 
 /* Footer ------------------------ */
-.footer {
+/* .footer {
   border-top: 1px solid var(--light);
   font-size: 0.9374999997rem;
   padding: calc(var(--baseline) * 9 + 1vw) 0 calc(var(--baseline) * 6 + 1vw);
@@ -2039,7 +2039,7 @@ textarea {
 .footer__bttop.is-visible {
   visibility: visible;
   opacity: 1;
-}
+} */
 
 .gallery {
   margin: calc(var(--baseline) * 6 + 1vw) calc(var(--gallery-gap) * -1);

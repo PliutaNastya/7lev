@@ -2,17 +2,17 @@
     {
         "path": "10-percent-wins.html",
         "type": "file",
-        "md5": "353c7fc9a66957787d66fe110ade7119"
+        "md5": "04f2e3e39816046c2ffc8d3cd9373f5a"
     },
     {
         "path": "404.html",
         "type": "file",
-        "md5": "eaade1fd11a66e41ee89016b0ed0859e"
+        "md5": "73f11e98fb2ed11a58528a7a9e3513da"
     },
     {
         "path": "about.html",
         "type": "file",
-        "md5": "8eb4096d5a6a0282d3d721a215fc37d8"
+        "md5": "352ee20cd902343a0b857d6cdca18c5c"
     },
     {
         "path": "assets",
@@ -25,9 +25,9 @@
         "md5": false
     },
     {
-        "path": "/assets/css/darklite.css",
+        "path": "/assets/css/custom.css",
         "type": "file",
-        "md5": "945d2c90a5a1d2810c43ff5d3741eb6a"
+        "md5": "a251c4adf7153d36b249f3dfb29c4374"
     },
     {
         "path": "/assets/css/editor.css",
@@ -37,12 +37,12 @@
     {
         "path": "/assets/css/main.css",
         "type": "file",
-        "md5": "56cf2129ad0bc0b59df51905ec6e2d75"
+        "md5": "0df1b983c76a7e03d8efbab35d58e692"
     },
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "b09e72b2ca1a38c969d44da51bb22509"
+        "md5": "002add89896a0e45e4961ffcf4a0414b"
     },
     {
         "path": "assets/dynamic",
@@ -50,39 +50,29 @@
         "md5": false
     },
     {
+        "path": "assets/img",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/img/logo-1.svg",
+        "type": "file",
+        "md5": "01d6faf2486f3cbc8ea6ed9e7ffdae6c"
+    },
+    {
+        "path": "/assets/img/logo-2.svg",
+        "type": "file",
+        "md5": "accdc4474577dd30c4eb6a73c59ae158"
+    },
+    {
         "path": "assets/js",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "assets/js/dev",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/assets/js/dev/common.js",
+        "path": "/assets/js/custom.js",
         "type": "file",
-        "md5": "eea83e19151d9895a521c874ed746c72"
-    },
-    {
-        "path": "/assets/js/dev/control.js",
-        "type": "file",
-        "md5": "a25188168f5f1979517b93138f1440b5"
-    },
-    {
-        "path": "/assets/js/dev/darklite.js",
-        "type": "file",
-        "md5": "cbc620e3e12f64c9c09e119e0eed7b30"
-    },
-    {
-        "path": "/assets/js/dev/popup.js",
-        "type": "file",
-        "md5": "5a92acab72a5bb6e94d60f1a4db3dbdf"
-    },
-    {
-        "path": "/assets/js/dev/toolkit.js",
-        "type": "file",
-        "md5": "78c3d2c2b4cd4daeb0c99bc1b9606076"
+        "md5": "0ec1c07aff9424ef731ed36a7e695975"
     },
     {
         "path": "/assets/js/scripts.js",
@@ -110,6 +100,11 @@
         "md5": false
     },
     {
+        "path": "/assets/svg/sprite-map.svg",
+        "type": "file",
+        "md5": "f0e4122c37cf032c1c214e59cc4ed922"
+    },
+    {
         "path": "/assets/svg/svg-map.svg",
         "type": "file",
         "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
@@ -127,42 +122,42 @@
     {
         "path": "/authors/7levers/index.html",
         "type": "file",
-        "md5": "fd6e5dcbfc6aa8c3ce3f98e93ad77aac"
+        "md5": "63d2479e018c9cd45d0618a6cdc3e7b0"
     },
     {
         "path": "cadence.html",
         "type": "file",
-        "md5": "4da3d434b518c84a6d42cbbb5ec3d5a3"
+        "md5": "8ca4f944eb3648eaf6883da60b21e0cf"
     },
     {
         "path": "consulting.html",
         "type": "file",
-        "md5": "c0c63925f468240029818556c7bebf70"
+        "md5": "47910ac7c1cc8242b5a1a0c95accfc7b"
     },
     {
         "path": "contact-us.html",
         "type": "file",
-        "md5": "e16b3d10b241d5fb8ac515c259147b34"
+        "md5": "1f0af1cb346b0586ddc2c245a6deb030"
     },
     {
         "path": "framework.html",
         "type": "file",
-        "md5": "2eaed44f7a70d97e82672cc3cd987881"
+        "md5": "90f03a67e68f824ed3a111dd3dff0bb5"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "30bd6d038c44a439c080ce21253a1ce3"
+        "md5": "46ad7617dcfef19439f26def25d2677c"
     },
     {
         "path": "new.html",
         "type": "file",
-        "md5": "c30fd9f78ab779957eb1cc7f8a9a13f3"
+        "md5": "dc926dc6d90a8f65cd6f9bbef1402f29"
     },
     {
         "path": "pete-williams.html",
         "type": "file",
-        "md5": "afe122aef910ca05abda8a97fc01da44"
+        "md5": "b4aa598be3ad9455466bedd08f0488ce"
     },
     {
         "path": "robots.txt",
@@ -172,7 +167,7 @@
     {
         "path": "scholarships.html",
         "type": "file",
-        "md5": "8dce0d6ec186f8ab6fae6b6a482e4bfc"
+        "md5": "398272cbdc1706ace31baeeb733fb673"
     },
     {
         "path": "tags",
@@ -182,6 +177,6 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "2907e3fbb4b4330b2764947e0dc29158"
+        "md5": "29585ea6ffff3285803ce6dfc66e5ce2"
     }
 ]

@@ -2,12 +2,12 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "fda3198896b178a0836851117b14e992"
+        "md5": "b55ca02890398831c4069c3f87332fcd"
     },
     {
         "path": "ai-policy.html",
         "type": "file",
-        "md5": "ed1a1a05da54ea6b794a1f2aa6ebbeb7"
+        "md5": "fa81c31edcb00abd1ad660a8656d0b89"
     },
     {
         "path": "assets",
@@ -117,47 +117,27 @@
     {
         "path": "/authors/7levers/index.html",
         "type": "file",
-        "md5": "3434b4dca318fe5f5de49ef2c04e7cf1"
+        "md5": "ae9fe718bb8fea79cf51aa4b84a842c8"
     },
     {
         "path": "cookie-policy.html",
         "type": "file",
-        "md5": "bd9fea743562af7ce2219f72016f45b5"
-    },
-    {
-        "path": "feed.json",
-        "type": "file",
-        "md5": "b3452408144cf5ce035c178963a3f97b"
-    },
-    {
-        "path": "feed.xml",
-        "type": "file",
-        "md5": "dd8e87767538411c204b1656c2ea24f5"
+        "md5": "cf42765f485fbfd30bd7e551d020fca2"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "dcfe441857c296989706310a6f4933cc"
+        "md5": "5917072ca12752acfa41399f1bedd3e3"
     },
     {
         "path": "privacy.html",
         "type": "file",
-        "md5": "b4c6e53bb0ff7f31fade233187eeec79"
+        "md5": "36afe6a6c533d951c33df708aba79db8"
     },
     {
         "path": "robots.txt",
         "type": "file",
-        "md5": "951891181a042aa458e262639ef3d18e"
-    },
-    {
-        "path": "sitemap.xml",
-        "type": "file",
-        "md5": "d43f62e9e1cc1c5cecd24d7b7b6afce5"
-    },
-    {
-        "path": "sitemap.xsl",
-        "type": "file",
-        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+        "md5": "b6216d61c03e6ce0c9aea6ca7808f7ca"
     },
     {
         "path": "tags",
@@ -167,11 +147,11 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "cdf34601fe7c985536d0e3b7be72fff0"
+        "md5": "38bb263b6fa2d6c85566068809a9405f"
     },
     {
         "path": "terms.html",
         "type": "file",
-        "md5": "52c44895bf2dd9acceb76e4a4e6e4233"
+        "md5": "1df4ef5de5c719ebb0e9226460240b5f"
     }
 ]
